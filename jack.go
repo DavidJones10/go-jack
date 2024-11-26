@@ -167,6 +167,10 @@ func (client *Client) Activate() int {
 	return int(C.jack_activate(client.handler))
 }
 
+func (client *Client) Deactivate() int{
+	return int(C.jack_deactivate(client.handler))
+}
+
 func (client *Client) CPULoad() float32 {
 	return float32(C.jack_cpu_load(client.handler))
 }
