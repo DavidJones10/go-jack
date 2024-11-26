@@ -3,11 +3,11 @@ Go bindings for [Jack Audio Connection Kit](http://jackaudio.org/)
 
 ## Usage
 
-For a working passthrough example see [example/passthrough.go](https://github.com/xthexder/go-jack/blob/master/example/passthrough.go)
+For a working passthrough example see [example/passthrough.go](https://github.com/DavidJones10/go-jack/blob/master/example/passthrough.go)
 
 **Import the package:**
 ```go
-import "github.com/xthexder/go-jack"
+import "github.com/DavidJones10/go-jack"
 ```
 
 **Connect to an existing jack server:**
