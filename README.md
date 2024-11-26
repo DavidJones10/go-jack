@@ -1,4 +1,4 @@
-# go-jack [![GoDoc](https://godoc.org/github.com/xthexder/go-jack?status.svg)](https://godoc.org/github.com/xthexder/go-jack)
+# go-jack [![GoDoc](https://godoc.org/github.com/DavidJones10/go-jack?status.svg)](https://godoc.org/github.com/DavidJones10/go-jack)
 Go bindings for [Jack Audio Connection Kit](http://jackaudio.org/)
 
 ## Usage
